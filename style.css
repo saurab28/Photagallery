@@ -1,0 +1,37 @@
+/* Apply styles to the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Header styling */
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+/* Button styling */
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #218838;
+}
